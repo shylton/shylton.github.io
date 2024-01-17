@@ -18,7 +18,8 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains posts about my adventures and ideas.
 github_username: shylton
-minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: neon
+# "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
 
 # Build settings
