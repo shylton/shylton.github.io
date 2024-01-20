@@ -82,6 +82,7 @@ defaults:
       comments: true
       share: false
       related: false
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
