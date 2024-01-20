@@ -1,58 +1,45 @@
 ---
 title: "A Surfing Odyssey Around the World"
-date: 2024-01-18
+date: 2024-01-19
 categories:
   - Blog
 tags:
   - travel
 ---
+### Dreams are nothing but smoke until you choose to take action and bring them to life. In pursuit of mine, I've decided to embark on a global adventure, armed with two surfboards and a laptop. My plan is simple: starting in New York, I will journey eastward, circling the globe, until I return to my starting point from the west. Along the way, I'll immerse myself in the world's most renowned surfing destinations, spending at least one month in each to truly connect with the local waves and culture.
 
-### Dreams are just smoke until you make a decision to act, so I decided to travel around the world with my surfboards. The plan is simple, I will fly Eastward from New York, keep flying around the globe until reaching my starting point from the West, and I will stay for at least one month in popular surfing destinations along the way.
+### Planning
 
-Planning
----
-[include map with points and arrow]
-As of now, here are the cities I wish to visit.
+![route map around the world](/assets/images/240120-World_Map_political.png)
 
-**Porto 🇵🇹 ->** This must be the first stop. Last year I thought about moving to Portugal and, as everyone knows, the first thing you should do when you have the idea to move someplace new is buy a car there. Well, I changed my mind so now I have to go back and sell the car and figure out what to do with a few other things that are there.
+I present here a potential route.
 
-**Imsouane 🇲🇦 ->** Another must-do spot, and the last one. I was there for about 5 weeks in December when I came to NY to celebrate Christmas, New Years, and my nephew’s birthday. The people and culture of Morocco are fascinating and I’d like to observe the monthlong Ramadan, which starts March 10, with them. I hope to get there in the first week of March Insha Allah.
+**Porto 🇵🇹 ->** This must be the first stop on my journey. Last year, enamored with Portugal, I flirted with the idea of moving there. Obviously, the first step after you initially think about moving somewhere is to buy a car there, which I did. But now, with my plans having taken a different turn, I need to return to Porto not only to sell the car but also to sort out a few other lingering matters.
 
-**Luanda 🇦🇴 ->** Angola is allegedly one of the last few countries that can provide good UNCROWDED surf. There may be reasons for that, up until recently getting there was expensive and difficult. There were visa requirements, crime, and terrible infrastructure. I think the visa requirements have been lifted. On the plus side, their main language is Portuguese (did I mention I'm Brazilian?) and every Angolan I have ever met has been super cool.
+**Imsouane 🇲🇦 ->** I was there in November and December of last year before coming back to NY for Christmas, New Years, and my nephew’s birthday. The people and culture of Morocco fascinated me. I made a few Muslim friends and decided to observe the monthlong Ramadan, which starts March 10, with them. Inshallah I will get there by the first week of March and stay up to three months. Then I'll likely embark on the six-hour road trip from Imsouane to Casablanca before the next leg of my journey. This presents a fantastic opportunity to witness the edge of the Sahara Desert and explore some lesser-known surf spots in the Northern Moroccan coast. Once in Casablanca, I'll face a choice: either fly directly to Dubai or head south into the heart of Sub-Saharan Africa.
 
-**Johannesburg 🇿🇦 ->** Popular surfing destination.
+**Luanda 🇦🇴 ->** Angola is rumored to be one of the few remaining countries offering excellent, uncrowded surf spots. However, its accessibility has historically been challenging. Until recently, the high cost and difficulty of travel, including strict visa requirements, crime concerns, and poor infrastructure, have deterred many. I've heard that the visa requirements might have eased now, which is promising. As a Brazilian, I'm also comforted by the fact that Portuguese is Angola's main language. Moreover, my interactions with Angolans have always been exceptionally positive; they're cool people.
 
-**Bali 🇮🇩 ->** Very popular surfing destination.
+**Jeffreys Bay 🇿🇦 ->** Very Popular surfing destination.
 
-**Sydney/Gold Coast 🇦🇺 ->** Ultra popular surfing destinations.
+**Bali 🇮🇩 ->** Ultra popular surfing destination.
 
-**Polynesia 🇵🇫 ->** Extremely popular surfing destination.
+**Sydney/Gold Coast 🇦🇺 ->** Extremely popular surfing destinations.
+
+**Polynesia 🇵🇫 ->** Another popular surfing destination.
 
 **Auckland 🇳🇿 ->** Apparently the flights from here to Hawaii are cheaper, as if I needed an excuse to visit New Zealand.
 
-**Oahu 🌺 ->** aka Paradise, another Ultra popular surfing destination. Currently my favorite place in the world, I wonder that opinion will have changed by the time I get there.
+**Oahu 🌺 ->** aka Paradise. Currently my favorite place in the world, I wonder if that opinion will have changed by the time I get back there.
 
-**California 🇺🇸 ->** Probably towards the South, San Diego or Santa Barbara. I will fly back home to New York from here Insha Allah.
+**California 🇺🇸 ->** Probably towards the South, San Diego or Santa Barbara. I will fly back home to New York from here Inshallah.
 
 My plan is to travel alone, meeting people and updating this blog. Notice that I did not include any time tables. Flight prices and level of fun will dictate my timing. 
 
-### Logistics
-—
-Here’s what I have done so far:
-I discussed my plans with a doctor during a routine physical exam. He gave me a tdap shot, a prescription for malaria pills, and suggested I take the polio and yellow fever vaccines. I might skip the polio and take the yellow fever shot as it is required in some countries in Africa and a good precaution.
-I did a dentist checkup where I replaced an aging cracked filling.
-I got a new travel credit card, the CapitalOne Venture X. [talk about it… I have had and canceled most credit cards out there and do not qualify for the bonus. Luckily this one allowed me to do it and I’ll get 75k miles plus airport lounges etc.]
+<div style="text-align:center">＊＊＊</div>
 
-What I am bringing
-—
-[reference article plus reddit, inlcude pic of bag]
-And of course, my two surfboards
+> I would rather have a mind opened by wonder than one closed by belief.
+>
+> --<cite>Gerry Spence</cite>
 
-
-Budgeting and financing
-—
-
-[add the table picture]
-
-Conclusion
----
+I am fortunate to have a curious mind that has led me to explore many fascinating places around the world. Recently, this curiosity has been complemented by the privilege of being able to work from anywhere, provided there's a reliable internet connection. My plans to travel the globe in 2024 represent the pinnacle of these achievements. I eagerly anticipate encountering diverse cultures, learning new languages, and embracing the challenges that will inevitably arise. To those reading this: consider yourselves invited to join me on this journey. Your feedback and insights are not just welcome, but eagerly awaited.
