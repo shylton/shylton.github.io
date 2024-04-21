@@ -4,7 +4,7 @@ date: 2024-02-04
 categories:
   - Blog
 tags:
-  - reading
+  - books
 ---
 ### Some of the best books and films I have been exposed to assume the existence a tangible, earthly domain inhabited by us and an ethereal, spiritual realm reserved for the Higher Being(s) who created the material world. This dichotomy not only shapes our understanding of existence but also influences our emotions and desires, which are tethered to the material world. Many stories invite us to consider meditation - or devotion, which is another way we meditate - as a bridge to the eternal, offering a means to navigate our fleeting, mutable emotions by connecting with the immutable essence of the Higher Being. In this exploration, I will delve into selected works that have deeply resonated with me. There are many good summaries online which I will link here instead of attempting to summarize them myself. Our journey begins with an examination of one of the most profound and complex texts that address this duality: the Bible.
 
