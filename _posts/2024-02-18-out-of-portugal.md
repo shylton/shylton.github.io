@@ -19,6 +19,6 @@ Simultaneously, an alternative emerged that I hadn't considered before: Morocco.
 
 This shift in destination, however, sparked a broader realization. The world is vast, filled with undiscovered opportunities and experiences. Why limit myself to settling in one place when there are so many cultures to experience, waves to surf, and lessons to learn? This epiphany has led me to embrace becoming a global nomad (at least for a while).
 
-<div style="text-align:center">＊＊＊</div>
+<p style="text-align:center">＊＊＊</p>
 
 In conclusion, while Portugal was the initial dream, it served as a stepping stone towards a larger vision. I now find myself excited at the prospect of traveling the world to find other places to fall in love with. Each destination promises new adventures, surfing experiences, and the chance to immerse myself in different cultures. Portugal and Morocco are just the beginning. The true journey lies in exploring the unknown, embracing change, and the endless quest for a place—or perhaps places—that feel like home.
