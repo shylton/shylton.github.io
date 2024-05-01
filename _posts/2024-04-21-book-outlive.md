@@ -7,17 +7,18 @@ tags:
   - books
 ---
 
-### In his compelling book, "Outlive," Peter Attia delves into the essence of living longer (lifespan) and free from disability (healthspan). His holistic approach underscores the paramount importance of emotional health, particularly in the book's climactic final chapter, "The High Price of Ignoring Emotional Health." Attia argues that emotional well-being is not just a part of a long, fulfilling life but the very foundation of it. **Why strive for a longer life if you're unhappy?** In this post, I summarize the additional tasks he recommends we complete and provide a tracking table pre-filled with my personal information. Feel free to copy, modify, and replace it with your own data.
+### In his compelling book, "Outlive," Peter Attia delves into the essence of living longer (lifespan) and free from disability (healthspan). His holistic approach underscores the paramount importance of emotional health, particularly in the book's climactic final chapter, "The High Price of Ignoring Emotional Health." Attia argues that emotional well-being is not just a part of a long, fulfilling life but the very foundation of it. **Why strive for a longer life if you're unhappy?** In this post, I summarize the additional tasks he recommends we complete and provide a tracking table pre-filled with my personal information. Feel free to copy, modify, and replace it with your own data
 
-> Over 80% of deaths in people over 50 who do not smoke can be grouped into 4 main categories, what I like to call the Four Horsemen of Chronic Disease. These are: 
-1. Atherosclerotic disease (comprised of cardiovascular disease and cerebrovascular disease), 
-2. Cancer, 
-3. Neurodegenerative disease (Alzheimer’s disease being the most common), and 
+> Over 80% of deaths in people over 50 who do not smoke can be grouped into 4 main categories, what I like to call the Four Horsemen of Chronic Disease. These are:
+
+1. Atherosclerotic disease (comprised of cardiovascular disease and cerebrovascular disease),
+2. Cancer,
+3. Neurodegenerative disease (Alzheimer’s disease being the most common), and
 4. Metabolic disease (a spectrum of everything from hyperinsulinemia to insulin resistance to fatty liver disease to type 2 diabetes).
 >
 > --<cite>Peter Attia. </cite><a href="https://peterattiamd.com/peter-on-the-four-horsemen-of-chronic-disease/" target="_blank">\[LINK\]</a>
 
-Attia identifies several key strategies to extend both lifespan and healthspan. His focus centers on preempting those major diseases. Fortunately, they share common causes like atherosclerosis (damage to the arteries). His approach simplifies the complexities of health maintenance, advocating for unified preventative measures against these debilitating diseases so we can significantly improve the quality and duration of our lives. 
+Attia identifies several key strategies to extend both lifespan and healthspan. His focus centers on preempting those major diseases. Fortunately, they share common causes like atherosclerosis (damage to the arteries). His approach simplifies the complexities of health maintenance, advocating for unified preventative measures against these debilitating diseases so we can significantly improve the quality and duration of our lives.
 
 Moreover, Attia encourages readers to envision the physical activities they wish to engage in at 100 years old. We should aproach physical fitness by thinking as a lifelong athlete training for a <a href="https://peterattiamd.com/training-for-the-centenarian-decathlon/" target="_blank">Centenarian Decathlon.</a> This forward-thinking advice suggests crafting a fitness plan to significantly exceed these goals while we are younger and more capable in order to compensate for the natural decline in physical abilities with age.
 
