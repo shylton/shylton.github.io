@@ -34,7 +34,7 @@ I present here a potential route.
 
 **California 🇺🇸 ->** Probably towards the South, San Diego or Santa Barbara. I will fly back home to New York from here Inshallah.
 
-My plan is to travel alone, meeting people and updating this blog. Notice that I did not include any time tables. Flight prices and level of fun will dictate my timing. 
+My plan is to travel alone, meeting people and updating this blog. Notice that I did not include any time tables. Flight prices and level of fun will dictate my timing.  
 
 <div style="text-align:center">＊＊＊</div>
 
