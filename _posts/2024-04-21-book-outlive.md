@@ -90,7 +90,7 @@ The table below will expand over time as I add more columns marking different ti
     </tr>
     <tr>
       <td>Action Plan</td>
-      <td>Starting next month, I will reduce social smoking and eliminate it completely after I leave Morocco settling back on my usual rate of marijuana a few times per month (which I think has no negative health effects).</td>
+      <td>I will eliminate it completely after I leave Morocco.</td>
     </tr>
     <tr>
       <td></td>
@@ -186,7 +186,7 @@ The table below will expand over time as I add more columns marking different ti
     </tr>
     <tr>
       <td>Notes</td>
-      <td>I get good sleep, 7-8hrs per night on average.</td>
+      <td>I get good sleep, 7hrs per night on average.</td>
     </tr>
     <tr>
       <td>Action Plan</td>
